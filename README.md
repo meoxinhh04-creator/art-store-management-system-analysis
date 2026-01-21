@@ -63,3 +63,45 @@ This repository includes key system analysis diagrams:
 ### Project Documentation
 
 Full project report (PDF): https://drive.google.com/file/d/1mQ-svaSi-kiJqeAtKF-3eWZtpopcVTRp/view?usp=sharing
+
+
+#### Business Function Decomposition Diagram (BFD)
+![BFD](diagrams/bfd.png)
+
+#### Data Flow Diagrams (DFD)
+
+**Context Diagram**
+![DFD Context](diagrams/dfd_context.png)
+
+**Level 0 Diagram**
+![DFD Level 0](diagrams/dfd_level_0.png)
+
+**Level 1 – Sales Management**
+![DFD Level 1 Sales](diagrams/dfd_level_1_sales.png)
+
+**Level 2 – Order Processing**
+![DFD Level 2 Order](diagrams/dfd_level_2_order.png)
+
+#### Data Modeling
+
+**Entity Relationship Diagram (ERD)**
+![ERD](diagrams/erd_1.png)
+![ERD](diagrams/erd_2.png)
+
+**Relational Data Model (RDM)**
+![RDM](diagrams/rdm.png)
+
+#### System Structure Diagram
+![System Structure](diagrams/system_structure.png)
+
+## Tools Used
+- Draw.io / Visio (System modeling)
+- Microsoft Word / PDF (Documentation)
+- GitHub (Project versioning & presentation)
+
+---
+
+## Author
+- Name: HaThuong
+- Role: Business Analyst (Student)
+
