@@ -22,4 +22,4 @@ This project focuses on business analysis for credit risk assessment, using hist
 ### Tools & Methods
 Business Analysis, Requirement Analysis, Data Analysis, System Modeling
 ### Project Documentation
-Full project report (PDF):https://drive.google.com/file/d/1mQ-svaSi-kiJqeAtKF-3eWZtpopcVTRp/view?usp=sharing
+Full project report (PDF): https://drive.google.com/file/d/1mQ-svaSi-kiJqeAtKF-3eWZtpopcVTRp/view?usp=sharing
