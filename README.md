@@ -92,7 +92,7 @@ Full project report (PDF): https://drive.google.com/file/d/1mQ-svaSi-kiJqeAtKF-3
 ![RDM](diagrams/rdm.png.png)
 
 #### System Structure Diagram
-![System Structure](diagrams/system_structure.png.png)
+![System Structure](diagrams/system_structure.png..png)
 
 ## Tools Used
 - Draw.io / Visio (System modeling)
