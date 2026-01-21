@@ -66,33 +66,33 @@ Full project report (PDF): https://drive.google.com/file/d/1mQ-svaSi-kiJqeAtKF-3
 
 
 #### Business Function Decomposition Diagram (BFD)
-![BFD](diagrams/bfd.png)
+![BFD](diagrams/BFD.png.png)
 
 #### Data Flow Diagrams (DFD)
 
 **Context Diagram**
-![DFD Context](diagrams/dfd_context.png)
+![DFD Context](diagrams/DFD_context.png.png)
 
 **Level 0 Diagram**
-![DFD Level 0](diagrams/dfd_level_0.png)
+![DFD Level 0](diagrams/DFD_level_0.png.png)
 
 **Level 1 – Sales Management**
-![DFD Level 1 Sales](diagrams/dfd_level_1_sales.png)
+![DFD Level 1 Sales](diagrams/DFD_level_1_sales.png.png)
 
 **Level 2 – Order Processing**
-![DFD Level 2 Order](diagrams/dfd_level_2_order.png)
+![DFD Level 2 Order](diagrams/dfd_level_2_order.png.png)
 
 #### Data Modeling
 
 **Entity Relationship Diagram (ERD)**
-![ERD](diagrams/erd_1.png)
-![ERD](diagrams/erd_2.png)
+![ERD](diagrams/erd_1.png.png)
+![ERD](diagrams/erd_2.png.png)
 
 **Relational Data Model (RDM)**
-![RDM](diagrams/rdm.png)
+![RDM](diagrams/rdm.png.png)
 
 #### System Structure Diagram
-![System Structure](diagrams/system_structure.png)
+![System Structure](diagrams/system_structure.png.png)
 
 ## Tools Used
 - Draw.io / Visio (System modeling)
